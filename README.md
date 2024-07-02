@@ -1,9 +1,9 @@
 # Olá 👋, eu sou a Clarice
 
-📚 Sou engenheira de alimentos formada pela USP em 2020.
-🏫 Eu trabalho em marketplace como analista de dados desde 2023.
-📊 Estou apresendendo e desenvolvendo minhas habilidade de programação e dataviz.
-⚡ Para sair da caixinha costumo ler, correr e muay thai, além de ser curiosa no mundo da astrologia.
+📚 Sou engenheira de alimentos formada pela USP em 2020. </br>
+🏫 Atualmente trabalho em marketplace como analista de dados desde 2023.</br>
+📊 Estou apresendendo e desenvolvendo minhas habilidade de programação e dataviz.</br>
+⚡ Para sair da caixinha costumo ler, correr e luto muay thai, além de ser curiosa no mundo da astrologia.</br>
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/claricenascimento/)
