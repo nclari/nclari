@@ -19,6 +19,6 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=lookerstudio&logoColor=blue)
+![Looker Studio](https://img.shields.io/badge/looker_studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ## Soft skills
