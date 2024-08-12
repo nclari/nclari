@@ -18,7 +18,10 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power_bi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/looker_studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ## Soft skills
+🕘 Organização e priorização 
+🎯 Visão analitica e resolutiva 
+💡 Senso crítico
