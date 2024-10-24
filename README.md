@@ -1,7 +1,8 @@
 # Olá 👋, eu sou a Clarice
 
 📚 Sou engenheira de alimentos formada pela USP em 2020. </br>
-🏫 Atualmente trabalho em marketplace como analista de dados desde 2023.</br>
+🎓 Tenho pós graduação em engenharia de qualidade e produtividde com certificação em black belt. </br>
+🏫 Desde 2023 trabalho como analista de dados e performance e venho de experiências em melhoria contínua e padronização de processos.</br>
 📊 Estou apresendendo e desenvolvendo minhas habilidade de programação e dataviz.</br>
 ⚡ Para sair da caixinha costumo ler, correr e luto muay thai, além de ser curiosa no mundo da astrologia.</br>
 
